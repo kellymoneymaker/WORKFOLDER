@@ -57,3 +57,45 @@ div {
 .nav li:last-child {
   border-right: none;
 }
+
+.aboutContainer {
+  width: 920px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: green;
+}
+
+.aboutText {
+  width: 500px;
+  margin-right: 150px;
+  float: right;
+}
+
+.menu {
+  width: 200px;
+  float: left;
+  background-color: navy;
+  height: 480px;
+}
+
+.menu li {
+  display: block;
+  border-bottom: 2px solid blue;
+}
+
+.menu ol {
+  padding: 0;
+}
+
+.menuAndContentContainer {
+  width: 920px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 480px;
+  background-color: orange;
+}
+
+.content {
+    float: left;
+    padding: 20px;
+}
